@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher, Engineer, MSc.
+subtitle: Researcher, Engineer, MSc. - Information Technologies Institute @CERTH
 
 profile:
   align: right
