@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Media Analysis, Verification and Retrieval Group</p>
-    <p>Information Technologies Institute/CERTH</p>
+    <p>Media Analysis, Verification and Retrieval Group @CERTH</p>
     <p>Thessaloniki, Greece</p>
 
 news: true  # includes a list of news items
