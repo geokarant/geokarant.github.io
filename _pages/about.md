@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[Media Analysis, Verification and Retrieval (MeVer) Group](https://mever.gr/)</p>
-    <p>Multimedia Knowledge and Social Media Analytics Lab</p>
+    <p>Media Analysis, Verification and Retrieval Group</p>
     <p>Information Technologies Institute/CERTH</p>
     <p>Thessaloniki, Greece</p>
 
@@ -20,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a researcher with the [Information Technologies Institute (ITI)](https://www.iti.gr/iti/en/home/) / [Centre for Research and Technology Hellas (CERTH)](https://www.certh.gr/root.en.aspx) working at the [Multimedia Knowledge and Social Media Analytics Laboratory (MKLAB)](https://mklab.iti.gr/) Previously, I was working as doctoral researher at the [Signal Processing and Information Analysis (AIIA.SPINAL)](https://aiia.csd.auth.gr/spinal/)  R&D group within the [Artificial Intelligence and Information Analysis Laboratory (AIIA Lab)] (https://aiia.csd.auth.gr/).
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
