@@ -2,7 +2,7 @@
 layout: page
 title: 
 description: A universe of media assets and co-creation opportunities at your fingertips
-img: assets/img/logo_mediaverse_rgb.png
+img: assets/img/m_mediaverse_rgb_v2.png
 importance: 2
 category: work
 ---
