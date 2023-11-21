@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MediaVerse
-description: MediaVerse brings together technology developers, social researchers, media publishers, artists, and other stakeholders. Their main goal: To help all sorts of creators produce and share state-of-the-art media – while allowing them to keep control of their intellectual property rights
+description: MediaVerse brings together technology developers, social researchers, media publishers, artists, and other stakeholders. Their main goal: To help all sorts of creators produce and share state-of-the-art media, while allowing them to keep control of their intellectual property rights
 img: assets/img/logo_mediaverse_rgb.png
 importance: 3
 category: work
