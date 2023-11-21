@@ -2,7 +2,7 @@
 layout: page
 title: DisAI
 description:
-img: assets/img/3.jpg
+img: assets/img/DIsAI_Logo_Colour_Short (2).png
 importance: 2
 category: work
 giscus_comments: true
