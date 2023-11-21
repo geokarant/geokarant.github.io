@@ -7,4 +7,4 @@ related_posts: false
 ---
 
 
-I attended on behalf of CERT, as a core partner, the Horizon-Europe DisAI project Workshop on "Opportunity seeking and proposal" in Bratislava, Slovakia!
+I participated in the Horizon-Europe DisAI project Workshop in Bratislava, Slovakia! Our MeVer group presented a session on "Opportunity seeking and proposal writing"
