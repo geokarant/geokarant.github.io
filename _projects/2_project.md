@@ -1,11 +1,13 @@
+
 ---
 layout: page
 title: DisAI
 description: Trustworthy AI, multimodal natural language processing, and multilingual language technologies in combating disinformation
 img: assets/img/DisAI_Logo_Colour_Short.png
-importance: 2
+importance: 1
 category: work
 ---
+
 Official website of DisAI: [https://disai.eu/](https://disai.eu/)
 
 In the [DisAI project](https://disai.eu/), the Kempelen Institute of Intelligent Technologies, DFKI, University of Copenhagen and CERTH joined forces to improve  scientific excellence of KInIT in AI and language technologies to fight disinformation.
