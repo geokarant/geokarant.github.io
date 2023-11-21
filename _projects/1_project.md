@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: FaRADAI
 description: Frugal And Robust AI for Defence Advanced Intelligence
 img: assets/img/12.jpg
 importance: 1
