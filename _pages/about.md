@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher, Engineer, MSc. - Information Technologies Institute @CERTH 
-
+subtitle: Researcher <a href='https://mever.iti.gr/index.html'>@MeVer/ITI</a>
 profile:
   align: right
   image: prof_pic.jpg
