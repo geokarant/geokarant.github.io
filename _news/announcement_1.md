@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my new position as a Researcher in Information Technologies Institute @CERTH and become a member of the MeVer group!
+I started my new position as a Researcher in Information Technologies Institute @CERTH and became a member of the MeVer group!
