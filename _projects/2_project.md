@@ -5,7 +5,6 @@ description: Trustworthy AI, multimodal natural language processing, and multili
 img: assets/img/DisAI_Logo_Colour_Short.png
 importance: 2
 category: work
-giscus_comments: false
 ---
 Official website of DisAI: [https://disai.eu/](https://disai.eu/)
 
