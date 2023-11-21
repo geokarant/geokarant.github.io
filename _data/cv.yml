@@ -6,13 +6,13 @@
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Greek
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+      institution: Aristotle University of Thessaloniki
       year: 1905
       description:
         - Description 1.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher
+      institution:  Information Technologies Institute, Greece
+      year: 2022 - now
       description:
         - Description 1.
         - Description 2.
@@ -73,11 +73,11 @@
   contents:
     - year: 1921
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
+        - ffff 
+        - Mffff
     - year: 2029
       items: 
-        - Max Planck Medal
+        - ffff
 
 - title: Academic Interests
   type: nested_list
