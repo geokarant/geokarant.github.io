@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: DisAI
 description: Trustworthy AI, multimodal natural language processing, and multilingual language technologies in combating disinformation
 img: assets/img/DisAI_Logo_Colour_Short.png
 importance: 2
