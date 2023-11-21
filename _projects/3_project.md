@@ -1,81 +1,31 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: MediaVerse
+description: MediaVerse brings together technology developers, social researchers, media publishers, artists, and other stakeholders. Their main goal: To help all sorts of creators produce and share state-of-the-art media – while allowing them to keep control of their intellectual property rights
+img: assets/img/logo_mediaverse_rgb.png
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The official webiste: [https://mediaverse-project.eu/](https://mediaverse-project.eu/)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+[MediaVerse](https://mediaverse-project.eu/) is funded under the Horizon2020 scheme of the European Commission.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The goal of this project is to set up a decentralised network of content management nodes through which content owners and creators can easily exchange content and negotiate media rights while next generation authoring tools and innovative collaboration spaces foster the creation of personalised, immersive and accessible future media experiences.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+What’s the idea?
+In the first years of this century a phenomenon called Web 2.0 began to enable virtually everyone to create and publish content without technical background. Creating websites had already been easy – then the blogosphere opened the world of text publishing, image exchange, and even video publishing became easier than ever. Everything was for free, both publishing and consuming. Since then, a few social media companies have risen to dominate the world of content creation offering tools and services to create and publish all sorts of media – largely under their control.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+This is where MediaVerse comes in: MediaVerse aims to enable all sorts of content creators, from traditional publishers and freelance creators or artists to anyone who wants to share their ideas, to create and share their media, while keeping control of their intellectual property rights. MediaVerse aims to provide a set of tools to support all steps in this process:
 
+Co-creation tools, where multiple users can work on their projects together, supporting also immersive media like interactive 360° videos and 3D objects;
+Social analytics tools to follow the trends and connect with your existing Social Media channels both ways – re-using the media you posted there as well as posting your new creations;
+A decentralised network to share the media;
+AI-supported tools for content analysis to make it easier to find content fragments on which to build your media, including tools to spot inappropriate content to protect your audience;
+Blockchain-enabled tools to negotiate your intellectual property rights and be paid appropriately;
+Automated language translation and other tools to facilitate the creation of accessible media.
+From October 2020 to September 2023 MediaVerse is going to demonstrate its potential in three major use cases focusing on
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Citizen Journalism;
+Co-creation of immersive and inclusive media;
+An artistic experiment under the headline of “Hybrid Intelligence”.
