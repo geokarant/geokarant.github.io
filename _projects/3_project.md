@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: MediaVerse
 description: A universe of media assets and co-creation opportunities at your fingertips
 img: assets/img/m_mediaverse_rgb_v2.png
 importance: 2
