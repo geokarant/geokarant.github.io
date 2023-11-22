@@ -9,6 +9,11 @@
 - title: Education
   type: time_table
   contents:
+   - title: PhD candidate
+      institution: Dept. of Informatics, AUTh
+      year: present
+      description:
+        - Signal Processing - Information Analysis
     - title: MSc
       institution: Dept. of Informatics, AUTh
       year: 2017
@@ -32,6 +37,9 @@
     - title: Researcher
       institution: Dept. of Informatics, AUTh
       year: 2018 - 2022
+    - title: Scientific Associate
+      institution: Cyber Security International Institute, GR
+      year: 2021 - present
 
       
 
