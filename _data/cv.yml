@@ -4,7 +4,7 @@
     - name: Full Name
       value: George Karantaidis
     - name: Languages
-      value: Greek, English
+      value: English, Greek
 
 - title: Education
   type: time_table
