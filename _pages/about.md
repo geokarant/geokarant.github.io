@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher <a href='https://mever.iti.gr/'>@MeVer/ITI</a>
+subtitle: Researcher <a href='https://mever.iti.gr/'>@MeVer/ITI</a>, Engineer
 profile:
   align: right
   image: prof_pic.jpg
